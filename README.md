@@ -1,4 +1,4 @@
-# POKEMON IMAGE GALLERY
+# TODO LIST APP
 
 ## Description
 A single page web app displaying a collection of images of pokemons. Users can sort the pokemons using their type(s).
